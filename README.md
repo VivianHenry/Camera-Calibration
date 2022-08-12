@@ -1,1 +1,3 @@
-# Camera-Calibration
+<h1>Camera Calibration</h1>
+
+The first step in any image processing or computer vision application is to ensure that the input to the program is properly calibrated. This in turn leads to accurate readings and subsequently, better performance. Thus, it is imperative to understand how to practically implement the camera calibration procedure, given an object with known world coordinates and an image of the object. This process determines the intrinsic and extrinsic parameters of the camera. This procedure is important as it allows users to understand the camera parameters such as focal length, image center, aspect ratio, and skew, as well as the relation between the locations of the camera and the object, in a global coordinate system.
